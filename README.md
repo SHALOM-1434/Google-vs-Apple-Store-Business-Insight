@@ -43,7 +43,7 @@ This project aims to extract, clean, integrate, and analyze app marketplace data
 - App ratings are relatively low (average ~2.1), indicating areas for UX improvement.
 - The average paid app costs $5.81—Apple apps are priced higher than Android.
 
-  ## Dashboard Features
+## Dashboard Features
 
 - Total Revenue by Platform and Year  
 - App Distribution by Category  
@@ -51,8 +51,9 @@ This project aims to extract, clean, integrate, and analyze app marketplace data
 - Revenue & Rating Trends  
 - Pricing Comparisons  
 - Free vs Paid App Breakdown
+- 
 
-** Dashboard:**
+**Dashboard:**
 
 https://github.com/SHALOM-1434/Google-vs-Apple-Store-Business-Insight/commit/4994ec546ac9c5a0868e2dd4e30a4379d6f5d2d5
 
