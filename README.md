@@ -51,7 +51,7 @@ This project aims to extract, clean, integrate, and analyze app marketplace data
 - Revenue & Rating Trends  
 - Pricing Comparisons  
 - Free vs Paid App Breakdown
-- 
+  
 
 **Dashboard:**
 
