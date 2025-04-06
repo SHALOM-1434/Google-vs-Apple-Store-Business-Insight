@@ -77,5 +77,5 @@ This business insights project empowers developers, marketers, and app strategis
 ## Project Files
 
 - `Google Play Store Business Insights Report.pdf`: Full report with insights, visuals, KPIs, and forecasting.
-- `Power BI Dashboard: Live interactive dashboard 
+- `Power BI Dashboard': Live interactive dashboard 
 
