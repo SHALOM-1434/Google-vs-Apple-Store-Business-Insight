@@ -35,7 +35,7 @@ This project aims to extract, clean, integrate, and analyze app marketplace data
 - **Predictive Modeling:** Time series forecasting using Facebook Prophet to estimate future revenue trends across platforms.
 - **Dashboard Development:** Power BI dashboard featuring filters, dynamic visuals, and cross-platform comparisons.
 
-## 📈 Key Insights
+## Key Insights
 
 - 95.63% of all apps are free, though paid apps generate most revenue.
 - Apple App Store shows higher average revenue per app despite fewer apps.
